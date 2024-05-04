@@ -9,7 +9,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 <br/>
 <p>收集的的数据:</p>
 
-![screenshot](/Images/data.jpg)
+![screenshot](/Images/cd.jpg)
 
 
 
