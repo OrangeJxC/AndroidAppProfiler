@@ -16,7 +16,9 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 2. 运行AppProfiler.exe
 3. 打开Android设备的[开发者选项](https://developer.android.com/studio/debug/dev-options?hl=zh-cn)，在开发者选项中打开调试模式, 通过USB线将设备连接到PC, 或使用[无线调试模式](https://cloud.tencent.com/developer/article/1809910)
 4. 在AppProfiler中选择对应的设备和要跟踪的App, 点击开始按钮就开始跟踪数据了
-   ![screenshot](/Images/O1.jpg)
+ 
+   ![](/Images/O1.jpg)
+   
 6. 在跟踪过程中可以点击暂停或停止按钮来暂停或停止当前的跟踪
 7. 停止跟踪之后会显示当前跟踪部分数据的平均、最大、最小值
 8. 根据的数据保存AppProfiler.exe相同文件夹下的ProfileData文件夹下。按照App名称->跟踪开始时间->数据类型分类
