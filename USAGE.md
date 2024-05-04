@@ -1,6 +1,6 @@
 # Android App Profiler
 
-![screenshot](/Images/app_screenshot.jpg)
+![screenshot](/Images/screenshot.jpg)
 <br/>
 AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来跟踪Android App的FPS、CPU、GPU、内存和电池相关的信息。方便评估App运行时的资源占用和性能表现，以及评估Android设备的硬件性能。
 
