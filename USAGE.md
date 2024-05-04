@@ -57,6 +57,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 6. 悬浮窗至少保留显示当前FPS的数据。
 
     ![](/Images/fw3.jpg)
+7. 退出应用   
    
 
 ## 注意事项
@@ -64,7 +65,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 1. 不要修改文件夹内的文件的名称, AppProfiler.exe内是以相对路径使用的，修改了可能无法正常跟踪。
 2. PerfMonitor App非必须安装。若不安装或跟踪中不运行该App，某些设备可能无法读取部分数据。
 3. 该程序目前只适配了高通GPU,非高通GPU的设备无法读取到GPU的使用率和频率。由于不同品牌，型号的系统权限设置不同，某些高通GPU的设备上也无法读取到GPU的当前频率。
-
+4. 功率   
 
 ## 常见问题
 
