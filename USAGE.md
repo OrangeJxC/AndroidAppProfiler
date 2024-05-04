@@ -49,11 +49,11 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 
 5. 点击悬浮窗右上角的按钮可以设置要显示哪些些数据
 
-    ![](/Images/f2.jpg)
+    ![](/Images/fw2.jpg)
 
 6. 悬浮窗至少保留显示当前FPS的数据
 
-    ![](/Images/f3.jpg)
+    ![](/Images/fw3.jpg)
    
 
 ## 注意事项
