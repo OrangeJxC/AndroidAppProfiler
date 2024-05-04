@@ -28,7 +28,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 1. 不要修改文件夹内的文件的名称, AppProfiler.exe内是以相对路径使用的，修改了可能无法正常跟踪
 2. 设备第一次跟踪时会安装文件夹下的PerfMonitor.apk。如果安装失败，可以手动安装
 3. PerfMonitor.apk安装成功之后，需要申请悬浮窗权限，要在Android设备上显示相关数据请给与App权限
-4. PerfMonitor App非必须安装。若不安装或跟踪中不运行该App,某些设备可能无法读取部分数据
+4. PerfMonitor App非必须安装。若不安装或跟踪中不运行该App，某些设备可能无法读取部分数据
 5. 该程序目前只适配了高通GPU,非高通GPU的设备无法读取到GPU的使用率和频率。由于不同品牌，型号的系统权限设置不同，某些高通GPU的设备上也无法读取到GPU的当前频率。
 
 
@@ -55,7 +55,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
    PC端程序在运行过程中会输出一些错误和数据到log中，log保存在文件夹下logs文件夹下。每次跟踪的关键数据也会写入到对应的跟踪目录下面。方便后面发现问题。日志经过控制，不会占用很多的硬盘空间。
 7. 关于Adb文件夹
    <br/>
-   项目下的Adb文件夹内是Android设备的调试工具:[adb](https://developer.android.com/tools/adb?hl=zh-cn)。是由Android开发平台提供的程序。AppProfiler运行必须依赖adb。
+   项目下的Adb文件夹内是Android设备的调试工具:[adb](https://developer.android.com/tools/adb?hl=zh-cn)。是由Android开发平台提供的程序。AppProfiler运行必须依赖该程序。
 
    
    
