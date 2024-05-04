@@ -13,7 +13,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 
 1. 从本项目最新的Releases下下载AndroidAppProfiler.zip， 下载完成之后解压到任意文件夹内。
 2. 运行AppProfiler.exe
-3. 打开Android设备的开发着选项，打开调试模式, 通过USB线将设备连接到PC, 或使用[无线调试模式](https://cloud.tencent.com/developer/article/1809910)。
+3. 打开Android设备的[开发者选项](https://developer.android.com/studio/debug/dev-options?hl=zh-cn)，在开发者选项中打开调试模式, 通过USB线将设备连接到PC, 或使用[无线调试模式](https://cloud.tencent.com/developer/article/1809910)。
 
 ## 注意事项
 
