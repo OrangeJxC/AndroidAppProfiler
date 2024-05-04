@@ -31,10 +31,12 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
     ![](/Images/o2.jpg)
    
 9. 鼠标移动到曲线图范围内会显示当前这秒的数据
-   ![](/Images/o3.jpg)
+   
+   ![](/Images/o4.jpg)
+   
 10. 点击右上方的两个按钮分别在资源管理器中打开保存数据的文件夹和打开当前使用教程
 
-    ![](/Images/o4.jpg)
+    ![](/Images/o3.jpg)
 
 ### Android端
 
