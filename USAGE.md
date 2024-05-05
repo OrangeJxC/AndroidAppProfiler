@@ -59,7 +59,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
     ![](/Images/fw3.jpg)
 7. 关闭悬浮窗或退出应用
    <br/>
-   为了防止误触，悬浮窗上没有关闭按钮。正常情况下关闭PC端应用会退出该App, 若没有退出可以点击App通知上的停止按钮来退出应用，或在多任务界面结束该App运行。
+   为了防止误触，悬浮窗上没有关闭按钮。正常情况下关闭PC端应用会退出该App。若没有退出可以点击App通知上的停止按钮来退出应用，或在多任务界面结束该App运行。
 
 ## 注意事项
 
@@ -84,7 +84,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
    项目下的adb文件夹内是Android设备的调试工具: [adb](https://developer.android.com/tools/adb?hl=zh-cn)。是由Android开发平台提供的程序。AppProfiler运行必须依赖该程序。
 - 兼容性问题
    <br/>
-   AppProfiler.exe基于WPF架构开发，理论上支持Windows7及以上的系统。PerfMonitor App支持Android 8.0及以上的系统。
+   AppProfiler基于Windows上的WPF架构开发，理论上支持Windows7及以上的系统。PerfMonitor App支持Android 8.0及以上的系统。
    这两个程序经过测试的设备数量非常有限，可能在某些设备上程序无法运行、无法收集到某些数据、或收集到的数据误差较大。这些都需要慢慢适配。遇到问题可以在本项目中提Issue。
 - 代码开源
    <br/>
