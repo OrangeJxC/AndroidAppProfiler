@@ -81,7 +81,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
    PC端程序及Android端App都没有连接互联网，收集的数据都存放在设备中, 没有将任何数据上传到其它地方。
 - 关于adb文件夹
    <br/>
-   项目下的adb文件夹内是Android设备的调试工具:[adb](https://developer.android.com/tools/adb?hl=zh-cn)。是由Android开发平台提供的程序。AppProfiler运行必须依赖该程序。
+   项目下的adb文件夹内是Android设备的调试工具: [adb](https://developer.android.com/tools/adb?hl=zh-cn)。是由Android开发平台提供的程序。AppProfiler运行必须依赖该程序。
 - 兼容性问题
    <br/>
    AppProfiler.exe基于WPF架构开发，理论上支持Windows7及以上的系统。PerfMonitor App支持Android 8.0及以上的系统。
