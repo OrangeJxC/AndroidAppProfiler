@@ -1,6 +1,6 @@
 # Android App Profiler
 
-![screenshot](/Images/screenshot.jpg)
+![screenshot](/Images/screenshot.png)
 <br/>
 <br/>
 <br/>
@@ -28,18 +28,22 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
      ![](/Images/o5.jpg)
    
 6. 停止跟踪之后会显示当前跟踪部分数据的平均、最大、最小值。
-7. 根据的数据保存AppProfiler.exe相同文件夹下的ProfileData文件夹下。按照App名称->跟踪开始时间->数据类型分类。
-8. 滑动曲线图右上方的滑块可以横向缩放曲线。
+7. 停止跟踪之后，曲线图的下方会显示一个当前曲线的缩略图，它是一个滚动条，点击或拖拽半透明区域就可以滚动曲线图。
  
-    ![](/Images/o2.jpg)
-   
-9. 鼠标移动到曲线图范围内会显示当前这秒的数据。
+    ![](/Images/o6.jpg)
+
+8. 鼠标移动到曲线图范围内会显示鼠标相近的这一秒的数据。
    
    ![](/Images/o4.jpg)
    
-10. 点击右上方的两个按钮分别在资源管理器中打开保存数据的文件夹和打开当前使用教程。
+9. 右上方的三个按钮分别是切换亮色/暗色主题、在资源管理器中打开保存数据的文件夹和打开当前使用教程。
 
     ![](/Images/o3.jpg)
+<br/>
+    ![](/Images/dark.png)
+
+10. 根据的数据保存AppProfiler.exe相同文件夹下的ProfileData文件夹下。按照App名称->跟踪开始时间->数据类型分类。
+    ![](/Images/o2.jpg)
 
 ### Android端
 
@@ -87,7 +91,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
    项目下的adb文件夹内是Android设备的调试工具: [adb](https://developer.android.com/tools/adb?hl=zh-cn)。是由Android开发平台提供的程序。AppProfiler运行必须依赖该程序。
 - 兼容性问题
    <br/>
-   AppProfiler基于Windows上的WPF架构开发，理论上支持Windows7及以上的系统。PerfMonitor App支持Android 8.0及以上的系统。
+   AppProfiler基于Windows上的Win ui3开发，理论上支持Windows10及以上的系统。PerfMonitor App支持Android 8.0及以上的系统。
    这两个程序经过测试的设备数量非常有限，可能在某些设备上程序无法运行、无法收集到某些数据、或收集到的数据误差较大。这些都需要慢慢适配。遇到问题可以在本项目中提Issue。
 - 代码开源
    <br/>
