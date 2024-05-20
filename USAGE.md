@@ -39,7 +39,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
 9. 右上方的三个按钮分别是切换亮色/暗色主题、在资源管理器中打开保存数据的文件夹和打开当前使用教程。
 
     ![](/Images/o3.jpg)
-<br/>
+
     ![](/Images/dark.png)
 
 10. 根据的数据保存AppProfiler.exe相同文件夹下的ProfileData文件夹下。按照App名称->跟踪开始时间->数据类型分类。
