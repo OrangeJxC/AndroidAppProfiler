@@ -1,6 +1,6 @@
 # Android App Profiler
 
-![screenshot](/Images/screenshot.jpg)
+![screenshot](/Images/screenshot.png)
 <br/>
 <br/>
 <br/>
