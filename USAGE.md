@@ -43,7 +43,8 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
     ![](/Images/dark.png)
 
 10. 根据的数据保存AppProfiler.exe相同文件夹下的ProfileData文件夹下。按照App名称->跟踪开始时间->数据类型分类。
-    ![](/Images/o2.jpg)
+    
+    ![](/Images/fd.jpg)
 
 ### Android端
 
