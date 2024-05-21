@@ -43,7 +43,8 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
     ![](/Images/dark.png)
 
 10. 根据的数据保存AppProfiler.exe相同文件夹下的ProfileData文件夹下。按照App名称->跟踪开始时间->数据类型分类。
-    ![](/Images/o2.jpg)
+    
+    ![](/Images/fd.jpg)
 
 ### Android端
 
@@ -91,7 +92,7 @@ AppProfiler是一个类似于Perfdog的Android App性能跟踪工具， 用来�
    项目下的adb文件夹内是Android设备的调试工具: [adb](https://developer.android.com/tools/adb?hl=zh-cn)。是由Android开发平台提供的程序。AppProfiler运行必须依赖该程序。
 - 兼容性问题
    <br/>
-   AppProfiler基于Windows上的Win ui3开发，理论上支持Windows10及以上的系统。PerfMonitor App支持Android 8.0及以上的系统。
+   AppProfiler基于Windows上的WinUI 3开发，理论上支持Windows10及以上的系统。PerfMonitor App支持Android 8.0及以上的系统。
    这两个程序经过测试的设备数量非常有限，可能在某些设备上程序无法运行、无法收集到某些数据、或收集到的数据误差较大。这些都需要慢慢适配。遇到问题可以在本项目中提Issue。
 - 代码开源
    <br/>
